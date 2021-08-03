@@ -1,2 +1,2 @@
 # Machine_Learning
-Project Machone Learning
+Project Machine Learning
